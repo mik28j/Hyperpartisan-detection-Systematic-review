@@ -1,6 +1,6 @@
 # Hyperpartisan-detection-Systematic-review
 
-This repository contains the search results related to our systematic review on hyperpartisan news detection, conducted in accordance with the PRISMA guidelines. In order to obtain the same results, we suggest to use the same advanced query described in our paper.
+Contained within this repository are the search findings pertaining to our systematic review on detecting hyperpartisan news, conducted in adherence to the PRISMA guidelines. To replicate these results, we recommend employing the identical advanced query method detailed in our paper.
 
 
 ## Contents
